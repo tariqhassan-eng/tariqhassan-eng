@@ -24,7 +24,7 @@ Aspiring Machine Learning Engineer focused on building practical projects and im
 I share my Machine Learning projects, experiments, and learning journey here on GitHub.
 
 ### 📫 Reach Me
-- Instagram: **@curious.1l**
+- Instagram: **@curious.1l*
 
 ---
 
