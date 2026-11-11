@@ -1,16 +1,31 @@
 ## Hi there 👋
 
 <!--
-**tariqhassan-eng/tariqhassan-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tariqhassa# Hi, I'm Tariq 👋
 
-Here are some ideas to get you started:
+Aspiring Machine Learning Engineer focused on building practical projects and improving my skills through hands-on learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do
+- Build Machine Learning projects
+- Explore data analysis and predictive modeling
+- Learn by experimenting and solving real-world problems
+
+### 🛠️ Tools & Technologies
+- Python
+- NumPy
+- Pandas
+- Matplotlib & Seaborn
+- Scikit-learn
+- XGBoost
+- Jupyter Notebook
+- Streamlit
+
+### 📂 My Work
+I share my Machine Learning projects, experiments, and learning journey here on GitHub.
+
+### 📫 Reach Me
+- Instagram: **@curious.1l**
+
+---
+
+*Always learning. Always building.
